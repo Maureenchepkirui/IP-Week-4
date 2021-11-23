@@ -4,7 +4,7 @@ Research Question:
 
 Identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018}
 
-#Setup/Installation Requirements
+# Setup/Installation Requirements
 
 
 Google Colab/Jupyter Notebook.
@@ -15,14 +15,14 @@ Import data visualizaton tools i.e seaborn, matplotlib
 
 Data cleaning functons.
 
-#Technologies Used
+# Technologies Used
 
 Python Programming,
 
-#Libraries:
+# Libraries:
 
 Pandas , numpy, matplotlib.
 
-#Dataset used
+# Dataset used
 
 Autolib_dataset.csv
